@@ -1,0 +1,13 @@
+{
+    "request": {
+       "urlPathPattern": "/rest/V1/order/789",
+       "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+        "Content-Type": "application/json"
+        },
+        "bodyFileName": "/rest/V1/order.json"
+    }
+  }

@@ -1,0 +1,12 @@
+{ 
+    "id": 18009697,
+    "name": "Rachen Pengsang", 
+    "company": "Central",
+    "blog": "https://medium.com/@chennie/", 
+    "location": "Thailand", 
+    "email": "rachen@central.tech",
+    "temp": {
+      "Hello":"World",
+      "Status":"OK"
+    }
+  }

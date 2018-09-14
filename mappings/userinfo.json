@@ -1,0 +1,13 @@
+{
+    "request": {
+       "urlPathPattern": "/usersinfo/(([a-z]|[0-9])*)",
+       "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+        "Content-Type": "application/json"
+        },
+        "bodyFileName": "/userinfo.json"
+    }
+  }
